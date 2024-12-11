@@ -1,5 +1,5 @@
 # Maps-Review
-* Project Description
+
 * Create a program to manage student grades. The program should:
 
 ** Store student names and their grades.
