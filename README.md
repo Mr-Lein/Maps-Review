@@ -1,11 +1,11 @@
-# Maps-Review
+## Maps-Review
 
 * Create a program to manage student grades. The program should:
 
  Store student names and their grades.
 
 ## Project Requirements
-*  Part 1: Using HashMap
+#  Part 1: Using HashMap
 *  Use a HashMap to store student names as keys and their grades as values.
 *  Implement the following operations:
 *  Add 10 students and their grades to the HashMap
